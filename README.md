@@ -1,2 +1,3 @@
 # That_Tetris_Game
 uh so I followed a 1:30 hours guide on the internet and here we are...
+It's beyond cursed.
